@@ -19,3 +19,4 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./
           server-dir: /home/u154025406/domains/testsmhmajax.com/public_html/
+          dangerous-clean-slate: false
