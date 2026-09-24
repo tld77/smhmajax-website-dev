@@ -1,0 +1,1215 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1790274862108,
+    "data": [
+        {
+            "type": "file",
+            "name": "about.html",
+            "size": 7678,
+            "hash": "911ba626d3bca2beee90d774ddf8a8dd2a83e0a0995a8267c2e72a6bade0cefd"
+        },
+        {
+            "type": "file",
+            "name": "README.md",
+            "size": 9116,
+            "hash": "431d1d8cf86e6739a025883faba652f7e65eab6ffe495f52abf54d77a3363709"
+        },
+        {
+            "type": "folder",
+            "name": "assets"
+        },
+        {
+            "type": "file",
+            "name": "bookings.html",
+            "size": 14574,
+            "hash": "63d9accc459cb79a7a5351405f1fa8a09bcfaaa8ced7102bc17089d5e021dc37"
+        },
+        {
+            "type": "file",
+            "name": "contact.html",
+            "size": 12474,
+            "hash": "fe47d21b4f692d74b76cff9def0ab00254ce3f99a3800bc056177c0d95b452ab"
+        },
+        {
+            "type": "file",
+            "name": "deities.html",
+            "size": 9874,
+            "hash": "9a005d6a910a7b9b59d8b9eb0aea47957fe95cde8c5bf08b4f292077131643d2"
+        },
+        {
+            "type": "file",
+            "name": "donate.html",
+            "size": 8858,
+            "hash": "7f3d57db477387aaeeef41d9a2cd1b82567f741cce4406f11ac2b45db9328ad4"
+        },
+        {
+            "type": "file",
+            "name": "events.html",
+            "size": 7733,
+            "hash": "c066a59c79ae3f622d11919d77acdef90bfd1915c1143b18cf13d71f085496f4"
+        },
+        {
+            "type": "file",
+            "name": "gallery.html",
+            "size": 22977,
+            "hash": "086e1ab963219c0505e91cbc4a0b323aa5a88f9fdbd1824025559956a69215cc"
+        },
+        {
+            "type": "file",
+            "name": "index.html",
+            "size": 9577,
+            "hash": "6b117f282c2cdd554eb5f4706705e9ccde060c407820a24493da0f5cf3a6ec97"
+        },
+        {
+            "type": "file",
+            "name": "livestream.html",
+            "size": 7366,
+            "hash": "29ce4615c4b901737819bfb0ceb2ff4c5e5cf9e060d87d4e11adaff1cdc6da45"
+        },
+        {
+            "type": "file",
+            "name": "new-mandir.html",
+            "size": 10579,
+            "hash": "67614d5eb0e028a8668f946fed324b8ec7b2cc14348c5b0421f6ef96fe22d393"
+        },
+        {
+            "type": "file",
+            "name": "where-am-i.txt",
+            "size": 26,
+            "hash": "0e19c325328ccd92c5e214ae8c23c200e0907d653643f3fb54920eaf8f196468"
+        },
+        {
+            "type": "folder",
+            "name": "assets/css"
+        },
+        {
+            "type": "folder",
+            "name": "assets/scripts"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/style.css",
+            "size": 58348,
+            "hash": "47c04ce1a9133e8e6b41a2d0175d50d4bab64e0f59a0808399dce990ba89d377"
+        },
+        {
+            "type": "file",
+            "name": "assets/scripts/main.js",
+            "size": 33656,
+            "hash": "8e1f8825de5d27f193081600b15eb63d3425dd8cc085caa5d600a5c142e31fb4"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/7 day Bhagavat Katha Aug 31st - Sept 6th 2026.png",
+            "size": 3030390,
+            "hash": "9463771699d05879c4fddd1da39c9fed76c3c46cd2572373d3128e51b59fad15"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images/9 days"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images/Hanuman Jayanti"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images/Krishna Janmashtami 2025"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images/Hanuman Ji Holi Shringar 2026"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Lakshmi_Narayan_Bhagavan.jpg",
+            "size": 618882,
+            "hash": "8adde85267f696a89c80fc93b6ab3b37e31fe368a34e44d815d2e116663cfa36"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images/Mahashivratri 2024"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images/Mahashivratri 2025"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images/Mahashivratri 2026"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Pandit.jpeg",
+            "size": 382688,
+            "hash": "5d176380ddd446cc47590559ab4d4a89ef06b0be9764ccca28ac9fc1e99c92f8"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images/Ram Navmi 2026"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Shravan Mas Somvar Aug 4th - 24th 2026.jpg",
+            "size": 1056544,
+            "hash": "a3c571674ad98517eb77cf1ef5a3c101940910daf478eac9a8f0e340188aef3e"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Sundarkand Aug 15th 2026.JPG",
+            "size": 738292,
+            "hash": "416360d3662a113eae70da40fa137fae7cce29486e639320ce5c58aee333c90d"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Shravan Purnima&Rashabandhan.png",
+            "size": 2940435,
+            "hash": "2b73fb0cb756bfebab5a8866c273bea12f13479bebce262efb5afdf4838d17c0"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images/Vasant Panchmi 2024"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images/Vasant Panchmi 2025"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images/Vjaya Dashmi 2025"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/bal_hanuman.jpeg",
+            "size": 336262,
+            "hash": "ace3367019b78f1a7efdc5bae951f84c6ea044fb8d920cf7a3bf4f926270203b"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/ca.svg",
+            "size": 625,
+            "hash": "345ec9dac057e203f1331b2d3f9f473789864edaee1182a26bc261356bcf72f1"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/durga-maaa.jpeg",
+            "size": 644702,
+            "hash": "39cc47ad1149d4807fecfaaa2f66b0e949574a3ed9c1f171aea85968174a23d9"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/ganesha-ji.jpeg",
+            "size": 553342,
+            "hash": "5290a9276c0deb1c9a34e18a2e591ddf782a301bcd2af65151608349f1f7f695"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/hanuman-ji.jpg",
+            "size": 689116,
+            "hash": "8ea15162f6224b0d274a6fee805e963ee083953fad9bcbe6ba3062692619719d"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/kal_bhairav.jpeg",
+            "size": 347226,
+            "hash": "d3a29e287a6262b3448393d471408b7140430399f376a4416efb85e07ef99747"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/laddu__gopal.jpeg",
+            "size": 605909,
+            "hash": "d64ab471fc6c1d7488a5d53788c3d38832d75a53b7229c56ca7907d0219ff2e1"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/lakshmi-maa.jpeg",
+            "size": 593261,
+            "hash": "3fec53412fda1bd07b1df8ce59b5ef633a9551fd212fd837758cea881769b467"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/mandir-icon.png",
+            "size": 1532561,
+            "hash": "a1523bdb4fc695c5fde5d8800203cc5057a8d61492fcdf8861b9bf0be00b7ca6"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/mandir-icon1.jpeg",
+            "size": 22300,
+            "hash": "ee9b5bbb4228f1ecd570296ea4b02e6c5a23516a23ad2f5a55b1c5a86419341d"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/navagrah.jpeg",
+            "size": 321628,
+            "hash": "65330a8865da9356049ae8ae10837818aa2b5498dff312ab7c758fdc5343a3cd"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/new_temple_pic.png",
+            "size": 1955927,
+            "hash": "407d9e2c46a505f6dfc911975c5daa6b8c37b3a5060e4997c585e14bbad2b2e0"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/radha_krishna.jpeg",
+            "size": 700617,
+            "hash": "7029685bbedf3cb9ba6846ef11c7804543e12c2fdd35f95c5bbce25dabf1ad4d"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/ram-ji.jpeg",
+            "size": 389062,
+            "hash": "269d3c0d2c125241048adc293d3b2a8e64c105fb25d21e32aff75e3132886f73"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/ram_darbar.jpeg",
+            "size": 645763,
+            "hash": "26f270273b25b5263be63de4e94c298568e6b96c29e701ae27c9d38bc12c433c"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/saraswati.jpeg",
+            "size": 586083,
+            "hash": "d81867f1e9f5642c577bbdda6b9e606f99538213c56279d68c1f7a00ff6e6959"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/satyanarayan_bhagavan.jpeg",
+            "size": 405113,
+            "hash": "553bc6c3e04d53a6aa3699ac00455e6a23b3fb6486b11c3e4548e36ef259f4fc"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/sankat_nashan_ganesh.jpeg",
+            "size": 409335,
+            "hash": "6e00b02f5bf483be184ae6f89b419b21ddb3a6bdb778ac30484c422231171da1"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images/september"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/shiv-ji.jpeg",
+            "size": 751850,
+            "hash": "2bbf0cf80a911cd3e62678816314895ee50cde1067e8370b6e965b09075e79ac"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/shivling.jpeg",
+            "size": 305871,
+            "hash": "d66c5fe7e977e97a3164c09d3824ad9012cd782d4d050d9b195cbd13051ccc5d"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images/sita 2026"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/surya_narayan.jpeg",
+            "size": 644209,
+            "hash": "24c2989988e6a2cdca982166a32f7294b20eb48989f3a820ceacb4acb32de906"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/9 days/katha1.webp",
+            "size": 408500,
+            "hash": "19c41f932e954fdc5efab47f164be9d6fab6dbb8356d5b39810716e4a0bbfb12"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/9 days/katha10.webp",
+            "size": 231316,
+            "hash": "14dc6d0ef20045af3146dc5eedf5083ff8908a9208bca5385209eb094bc643a3"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/9 days/katha11.webp",
+            "size": 330324,
+            "hash": "0be1e933f623be8144f6083a9fc884d4c160a1f3064fca4b264488256d30de4a"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/9 days/katha2.webp",
+            "size": 239878,
+            "hash": "46dd1402c93c854b58d4f4661f0c3cb7f295cbcf5597d99bcba3ff52e7377d78"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/9 days/katha3.webp",
+            "size": 246670,
+            "hash": "c879b1a36d9a2cf270577e17556951682257ff947d3022aa8006f70fb463bd7f"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/9 days/katha4.webp",
+            "size": 169002,
+            "hash": "a5170bffedeaaee39cd31a343c64b1e1d9258f136bb6ed0998d5681f8b51064a"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/9 days/katha5.webp",
+            "size": 337444,
+            "hash": "a969cf76a376221e0cadde7992e15647e68993703c1850ad05da88578c7f6e88"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/9 days/katha6.webp",
+            "size": 355294,
+            "hash": "d766609d2068a005de70ec1f82795247f5d0e6fa5867f92195af4cb6a77e56ee"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/9 days/katha7.webp",
+            "size": 245156,
+            "hash": "b6f56282cdb529028d9ffbbfc21b7bfa7925b197e5168ff46150be4fe39ae503"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/9 days/katha8.webp",
+            "size": 309342,
+            "hash": "ee112b00d40b6ea0103c0593b5559a1af0bde264f11425b4999b4868669a7d86"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/9 days/katha9.webp",
+            "size": 334378,
+            "hash": "e43aaec98c452b54f1287754f4c9b0a13f20613360bcfdedeae5f34212a6c049"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Hanuman Jayanti/DSC_1046.webp",
+            "size": 601102,
+            "hash": "0d4cdcf7ac97f10edaf0f793e82f8580d0dd4d478024667dac877026e7136dab"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Hanuman Jayanti/DSC_1059.webp",
+            "size": 605828,
+            "hash": "9cae041a256eb6e955b43f2f717c861a02c7037e2f809952d82e64936f28d9f3"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Hanuman Jayanti/DSC_1062.webp",
+            "size": 655160,
+            "hash": "56684971de30398ce222d7052a260a544ba4726c58e4df14c6da425b2da7e3ae"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Hanuman Jayanti/DSC_1069.webp",
+            "size": 560896,
+            "hash": "dfe64ec72ec6b1d9c60c76ecbdb9ca2118e230f87e63b88ee7ab0b459b14f76a"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Hanuman Jayanti/DSC_1087.webp",
+            "size": 431224,
+            "hash": "5661eef2cd8589077f2523b11056a68cb4846fa4bc5d00a4ac240b161902cef4"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Hanuman Jayanti/DSC_1092.webp",
+            "size": 549222,
+            "hash": "6cc9ffda11103d8b74d107f1513ebb3b2a46aabd17b68f2c919a4c4e5b8b6510"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Hanuman Jayanti/DSC_1093.webp",
+            "size": 584590,
+            "hash": "43dfbf263358f6034b59204abb425062d1c1c3f4f4f5721b602208c76e932241"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Krishna Janmashtami 2025/DSC_2676.webp",
+            "size": 207880,
+            "hash": "9e52dce17c44b1aa58cde7544c759147f6ffe178f8770cf0b2501332357213a0"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Krishna Janmashtami 2025/DSC_2678.webp",
+            "size": 221118,
+            "hash": "929895f81bdd8eca591fa50ec6eae287b87eeea02f8427dab0c469db6edb494b"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Krishna Janmashtami 2025/DSC_2684.webp",
+            "size": 292968,
+            "hash": "31cb18efa152016f84bf619342b36b6bb02c831d36599a0787034e10f709a92a"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Krishna Janmashtami 2025/DSC_2723.webp",
+            "size": 422656,
+            "hash": "ec5ae98ea3323a20f29339f376fcb6266f7fb30d5d6256dfc61f067bde7f4d07"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Krishna Janmashtami 2025/DSC_2727.webp",
+            "size": 612452,
+            "hash": "365c2debf1e94350ebe4cb3907999ff204e825888358eb1b8c887acb886706a3"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Krishna Janmashtami 2025/DSC_2774.webp",
+            "size": 639810,
+            "hash": "7cdd38d256b05a05d5eb7088dd866689148e5fb8092ac2ac8011661774a776f9"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Krishna Janmashtami 2025/DSC_2784.webp",
+            "size": 555218,
+            "hash": "389a0f88d3983024e57c419409ccefb2e9130af8ba834d99c596733886a908eb"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Krishna Janmashtami 2025/DSC_2771.webp",
+            "size": 567346,
+            "hash": "bf9aad82cb559190f69087292099378636f59591aed7a2a1265612ebb6096a37"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Krishna Janmashtami 2025/DSC_2795.webp",
+            "size": 447068,
+            "hash": "87787d5ea50fd4b4da3a057b5f6478210768c618e3ec844e89859489ce9a7c64"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Krishna Janmashtami 2025/DSC_2813.webp",
+            "size": 354776,
+            "hash": "64add35665f2f75f5a07beb844b6ade86b219b98cc3e65e48742b3ddbc463f84"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Krishna Janmashtami 2025/DSC_2817.webp",
+            "size": 665606,
+            "hash": "2acea66d7a255ba9ce233e20424304a650bae36c93f7b1636a0cca31f91154dd"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Hanuman Ji Holi Shringar 2026/DSC_2937.webp",
+            "size": 427502,
+            "hash": "7a47dd3b5121f9d218f2ff3eca7f14badc89d326aba1678c1f5e65082b27945b"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Hanuman Ji Holi Shringar 2026/DSC_2940.webp",
+            "size": 518460,
+            "hash": "394e30b9ac45bf03b939e75d55fb28791f0df6a8612d5c83a227ce153446108c"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Hanuman Ji Holi Shringar 2026/DSC_2945.webp",
+            "size": 403994,
+            "hash": "da8899d8cb781b67cf86127d88702807be4bb7ee5850ae3a96795ac23fa6c313"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Hanuman Ji Holi Shringar 2026/DSC_2947.webp",
+            "size": 346802,
+            "hash": "ed8d821673ef162e5737c13aaf9caf0931e3026ef9782cab5ca4ddd4ee650702"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Hanuman Ji Holi Shringar 2026/DSC_2948.webp",
+            "size": 302556,
+            "hash": "ca31502828e8d19af701d40994f74b40053da309c2ac82d451880ed1d0910950"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Hanuman Ji Holi Shringar 2026/DSC_2949.webp",
+            "size": 241884,
+            "hash": "c4c5f274d299b3a793269079e571b110b648aa5fd9b2605b7879d86a7f67a0a4"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Hanuman Ji Holi Shringar 2026/DSC_2952.webp",
+            "size": 474034,
+            "hash": "ace21f5fcfe2de9c69a41ea3e1c440ca505b5a612ce8314ee0a7e0fbc19ee4da"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2024/DSC_2676.webp",
+            "size": 207880,
+            "hash": "9e52dce17c44b1aa58cde7544c759147f6ffe178f8770cf0b2501332357213a0"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2024/DSC_2678.webp",
+            "size": 221118,
+            "hash": "929895f81bdd8eca591fa50ec6eae287b87eeea02f8427dab0c469db6edb494b"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2024/DSC_2684.webp",
+            "size": 292968,
+            "hash": "31cb18efa152016f84bf619342b36b6bb02c831d36599a0787034e10f709a92a"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2024/DSC_2723.webp",
+            "size": 422656,
+            "hash": "ec5ae98ea3323a20f29339f376fcb6266f7fb30d5d6256dfc61f067bde7f4d07"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2024/DSC_2727.webp",
+            "size": 612452,
+            "hash": "365c2debf1e94350ebe4cb3907999ff204e825888358eb1b8c887acb886706a3"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2024/DSC_2774.webp",
+            "size": 639810,
+            "hash": "7cdd38d256b05a05d5eb7088dd866689148e5fb8092ac2ac8011661774a776f9"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2024/DSC_2784.webp",
+            "size": 555218,
+            "hash": "389a0f88d3983024e57c419409ccefb2e9130af8ba834d99c596733886a908eb"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2024/DSC_2771.webp",
+            "size": 567346,
+            "hash": "bf9aad82cb559190f69087292099378636f59591aed7a2a1265612ebb6096a37"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2024/DSC_2795.webp",
+            "size": 447068,
+            "hash": "87787d5ea50fd4b4da3a057b5f6478210768c618e3ec844e89859489ce9a7c64"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2024/DSC_2813.webp",
+            "size": 354776,
+            "hash": "64add35665f2f75f5a07beb844b6ade86b219b98cc3e65e48742b3ddbc463f84"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2024/DSC_2817.webp",
+            "size": 665606,
+            "hash": "2acea66d7a255ba9ce233e20424304a650bae36c93f7b1636a0cca31f91154dd"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2025/DSC_2249.webp",
+            "size": 442062,
+            "hash": "6e6a025ec9366527496335f1a5f389b96e756df6b762583920c5e156e18c201e"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2025/DSC_2329.webp",
+            "size": 359244,
+            "hash": "c03a80b28334bb1e59ca276ad0dba280104320d30f5177ed830634c0f5980e22"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2025/DSC_2334.webp",
+            "size": 379668,
+            "hash": "b6d134d2c244ddda991aa94900f2bec6d27bbb9720179dee485dff06a479657f"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2025/DSC_2354.webp",
+            "size": 165476,
+            "hash": "6bb25de857f52e824dbe4f8744310861ba3b65803eca8461512f0ed2b6baf892"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2025/DSC_2355.webp",
+            "size": 183632,
+            "hash": "0f948f12bbca91d047d19d6021c8f393120f4e4df42f6ba274c08331a61a89d3"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2025/IMG-20250226-WA0035.webp",
+            "size": 402772,
+            "hash": "3665bbbb38f611e3bf86c15898449e7cc34210c0b81e9fd0ee4564d1321e5cbb"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2025/DSC_2363.webp",
+            "size": 232914,
+            "hash": "870d86990dcc6b233e6be8f0bed72bb98893f2bc8e77d6951a0eda9dd6583add"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2025/IMG-20250226-WA0041.webp",
+            "size": 230026,
+            "hash": "b704f493b8a328989ed47659ef192e016574bedab5aebb42de9eb6c037d8af09"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2025/IMG-20250226-WA0055.webp",
+            "size": 78476,
+            "hash": "731b6ed018163ca31f094c660e766e4456ebd9579276f745105eb5304d0e1ed0"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2025/IMG-20250226-WA0062.webp",
+            "size": 181180,
+            "hash": "34d2797ee9ab8f5b6ccc5ccd88d25fd132a858b2498cc0effc99c868b623cc3c"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2025/IMG-20250226-WA0072.webp",
+            "size": 88844,
+            "hash": "04a1853b3b3a071816f0adb61ebd59b4a3aa7279f15a6fde76442e992c67598b"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2025/IMG-20250226-WA0084.webp",
+            "size": 194492,
+            "hash": "d768ab997213731ab48e1699318eb818e450dc5b650db23ef853a5bb911d6e89"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2026/629804803_1218214667160572_5214128559299929691_n.webp",
+            "size": 507684,
+            "hash": "ab5117b71d844c487c8c6f61139c04f10272d179162ecdd3de0945c5e487752f"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2026/636336170_1218214663827239_7307067002335446481_n.webp",
+            "size": 296726,
+            "hash": "8532e9449e357f9a05a665eb1ce535b0d30c99a812933635039295248daa2017"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2026/637768578_1218214670493905_1639600970345258740_n.webp",
+            "size": 457988,
+            "hash": "f9623f47f03a4977e61376e9abb55128ac41d21772ad5cb765deebab5633ae89"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2026/DSC06927.webp",
+            "size": 547568,
+            "hash": "1e17c3947d729e2538f612f4e2dd3b57745b667f9ce56a405f0e5f8445bb70b5"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2026/DSC06928.webp",
+            "size": 383064,
+            "hash": "a7f7f32295513efff780648fbd8c28c09a6c8c1b92f013d26476d730763a7ed4"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2026/DSC06941.webp",
+            "size": 514362,
+            "hash": "eb70ac767e9db82490bd7f8cedb20068d2cde81b336b8c9bd76def0ea9765413"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2026/DSC06931.webp",
+            "size": 596576,
+            "hash": "efa8148399c0cc1b9700a8176ecb93fac9023b868f7520a43f4da5ced987676b"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2026/DSC06946.webp",
+            "size": 295870,
+            "hash": "f787a376fd3669d06c36c32c5ac58e66d805ee275a54ddf2a8e526ef21d125a6"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Mahashivratri 2026/DSC06960.webp",
+            "size": 739736,
+            "hash": "d2b61fcf915a68eaf93557631463f89d7944d6bf504690bd16d6065e971395f9"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Ram Navmi 2026/DSC_2957.webp",
+            "size": 455036,
+            "hash": "108b19eccc1f30315dda83940666e94461130d768f8e7893b3d2e6de999515a8"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Ram Navmi 2026/DSC_2961.webp",
+            "size": 382526,
+            "hash": "7f13654f208ed034e57db1a968fb9ad18c5f4363b2ef27ba9b184846c533fbde"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Ram Navmi 2026/DSC_2959.webp",
+            "size": 561642,
+            "hash": "0b7bfec9f6cad5dbd3f065f1dde384134f8811270a5c255e94b3ad414f6c1423"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Ram Navmi 2026/DSC_2964.webp",
+            "size": 377516,
+            "hash": "232ca21a76290fd24ffb7a20666b413b7348554a0a3d05f52a078e15cd3b02ff"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Ram Navmi 2026/DSC_2965.webp",
+            "size": 248756,
+            "hash": "247c5d26605fb023bec2c0231f280600a14da76fe9d93d5aa46a759a132db558"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Ram Navmi 2026/DSC_2970.webp",
+            "size": 308028,
+            "hash": "d94b81a46e3650194a32b626f742b22626c8e5000fd1a4b60c2704e792d33c59"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Ram Navmi 2026/DSC_2973.webp",
+            "size": 516736,
+            "hash": "59e11b561a9289febfc85c12b1e1707c6919efe21a8cb2e6db0ed0ade1758415"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Ram Navmi 2026/DSC_2975.webp",
+            "size": 290022,
+            "hash": "ed32f639faa4251040df73a6de205ab4af46efca7ca957e48791d172c5315a4e"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Ram Navmi 2026/DSC_2976.webp",
+            "size": 310622,
+            "hash": "caad568d651af83e2f032416418c067edeec266888d04998b2fa5eb2cf9b318b"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Ram Navmi 2026/DSC_2977.webp",
+            "size": 664068,
+            "hash": "ce0686aa8291632c798484b0ee055055d266ca339655ad9e3559bdfe484d2027"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/Copy of DSC_0548.webp",
+            "size": 688226,
+            "hash": "296584cb3fe52f844ba127d256e10eecf65c5d02e8f256d72d35fb924acdf6c4"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0558.webp",
+            "size": 497726,
+            "hash": "cef7ed0f05aad57ed6114db7265f64f2361c1c4b21ac6395bec240c1eefbfbda"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0559.webp",
+            "size": 480340,
+            "hash": "0aa79af14f809941fe2daec5762094878f937bdf6d5d373d694fca5a2890c536"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0562.webp",
+            "size": 466986,
+            "hash": "afc94a07fcd815c13c5615f1538eff953a951bf9017a80ecf99ad111724109c4"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0563.webp",
+            "size": 670874,
+            "hash": "3b3e1c27ecde6ec5eed0733e6c0cdfa3b56878b8d1e7f3df3f96bdb3fbfb2009"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0568.webp",
+            "size": 513644,
+            "hash": "82e9ae175c3e4e226c13dfce897b5d3bf3d6fbd60a9ca144bb0f86189a6895f4"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0578.webp",
+            "size": 376582,
+            "hash": "19be1261d427069fe323f1fe818527d9de718873c206d61efb9822482226fa1c"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0596.webp",
+            "size": 640352,
+            "hash": "da2db5c18ff4bb08671462779e0223d70fb8844848a503c5866174d7e1f48cd5"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0602.webp",
+            "size": 585120,
+            "hash": "4f209460c4e6abfe437eec128e90cf5797b13fecec536c5cc8530b3744ff2f5e"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0605.webp",
+            "size": 595696,
+            "hash": "a76a6ca39cc87e10046bbce3ecc39a5ea3d0e21fcdac1a45c58d239baa2a0238"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0609.webp",
+            "size": 470026,
+            "hash": "4650a680d962e104fc528e823b67c1d41b6f3a1acd6b2046d70dcd5e4c4b8aa3"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0614.webp",
+            "size": 533320,
+            "hash": "a21efb91b441b610232ac486ae931af31c96292f41abb6c14be15f2f72c4bc14"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0626.webp",
+            "size": 535866,
+            "hash": "eb11e389f67049779bfdc9c2e8b6e934b5b5e5482317f8d901a0124799695c13"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0622.webp",
+            "size": 627916,
+            "hash": "fb7249358f4e10561e2441c3a4893c168ebe46d584c3d97978606150e1b8fb5f"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0651.webp",
+            "size": 543652,
+            "hash": "d7f3ff21597395a47cc5beca1baf68f7411e204d735c49dbbd22b822d097d484"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0647.webp",
+            "size": 358374,
+            "hash": "df6ccbbf9f0e983478bdee0a9054d360f43ad706671943289776710c96a9e495"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0653.webp",
+            "size": 309574,
+            "hash": "f2c54d8555342e1fbabd8bb3cd6952f93de4b913e1ae324fe113699dd5ee0ee2"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0701.webp",
+            "size": 571276,
+            "hash": "1443eb50caf5d00d63e057ab3834ed7eada72072a1131ff7ca56674553da22d6"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0668.webp",
+            "size": 466602,
+            "hash": "52b9d954af2d03e2f1763e834365a1af14bf0bebdc81d637706790a1cadef2b1"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0749.webp",
+            "size": 449256,
+            "hash": "cb37dd3dd764c2161de12d4084a003061fc5f569427e3a1a56e0caa200f49fc4"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0666.webp",
+            "size": 418320,
+            "hash": "1409ccc0394fb43696b091d1e7c5716ce0e975a7731ab8b74c342571b638bb3c"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0750.webp",
+            "size": 190302,
+            "hash": "7d54069f66fe52b4edfc80b25bdd795dfe3bf03ddfdd35a4607c088aeb4ba766"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0757.webp",
+            "size": 424912,
+            "hash": "e0fd987ad7fd66acb247b767873d6b6a4afda8d4f620489e0936e624e4ad9a6a"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2024/DSC_0775.webp",
+            "size": 322204,
+            "hash": "c3890f5670335f577805dadfa3f4d8f034e9e024347f45ac9efe9e597fb758e6"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_1939.webp",
+            "size": 647054,
+            "hash": "d5714c700e4852d3dd2768a3a94ebac5b485a1fe9d74298f6f3f7c84a53a2ccc"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_1954.webp",
+            "size": 684856,
+            "hash": "b25701dd21fd3ba1bb7ecddc2e97c78c368c223f4f012a0b1d5259fec22ef051"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_1956.webp",
+            "size": 500656,
+            "hash": "8c3ddfad589125417225eafbc765317268c884c95fe65258b988e5577581dcf0"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_1961.webp",
+            "size": 541386,
+            "hash": "4c10ef5aeddb50bb8dae5afa530a23021a3b7533f17f72c0035f601cfb4c32f5"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_1964.webp",
+            "size": 423562,
+            "hash": "36d9b0b88db25b2b411f23f806f2952952c1dd35216663a2e3a26220c5580946"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_1966.webp",
+            "size": 389882,
+            "hash": "bbeeb861411c69fa51a282ef90757e2197a965b473b955e1c8ec008e9b8a2d62"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_1989.webp",
+            "size": 398362,
+            "hash": "35942a4ef0f18ace4ac6fde64bd4300732b4688e77c616b3dd16b601eaf24b87"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_1995.webp",
+            "size": 256316,
+            "hash": "630a97a4b69527d1d0b62b733cc2f2b3b481e1424f140b0a3402bd23a9a68b64"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_2024.webp",
+            "size": 376932,
+            "hash": "03a265930118f858195f4c0e3c6945c27be6c52e47bc3eaa62056aff7d644923"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_2025.webp",
+            "size": 113612,
+            "hash": "2d0ecda38632bef229a657fed6fd76d739fec6533dbb4a2223642aa168667516"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_2027.webp",
+            "size": 254036,
+            "hash": "0c3c811968861ad360cb835ec9e689a02d4f186e030cbc3733ef165a38cf85aa"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_2029.webp",
+            "size": 327908,
+            "hash": "09d1c49e08f292dda838770eb99df7783b241290b07eb300f0166370f8176204"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_2000.webp",
+            "size": 623756,
+            "hash": "f4027e1c0fbc2b5ead62e0fd17f6040ccb312cceda77871ea5a84cc5d2b11281"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_2034.webp",
+            "size": 409150,
+            "hash": "4cea0465871c4e378e21050574f69d9b2cd82b8d7fe417959571316871d77b1a"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_2051.webp",
+            "size": 494616,
+            "hash": "f80e665f7370503d582220bf9f3bc1fc7b71ef49b76e92a386dd4235a8e7462b"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_2056.webp",
+            "size": 478714,
+            "hash": "b08cd57a8d89f609d87dff0afbbcffe7879b28d09711b0ac549525fa3033d2a8"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_2062.webp",
+            "size": 381114,
+            "hash": "26032d8b22b385ccc75cd3424d6d2ad3338f799481c6c4527e9ff08811b2fb0f"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_2070.webp",
+            "size": 408990,
+            "hash": "640992c8bdc8da968ae675194532556ea4427e3f369d16a045193ab36d00797e"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_2073.webp",
+            "size": 539058,
+            "hash": "c17846db448e83bd02a199688fe72826598712b684d747f72c122ca995a287c9"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_2100.webp",
+            "size": 601084,
+            "hash": "bdc067dacf0d780a90aa59060fc3b177599fb73c7d98dce17c9a683be9bd5004"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_2099.webp",
+            "size": 591484,
+            "hash": "37a8ce1742ed2f31a9cede456212aaed5c40966aca06ad3974e14f3e81c7ec55"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_2104.webp",
+            "size": 434832,
+            "hash": "8015ba4a6df7d99b3dfd1f22120992ab97b1751dac9c75c4bc439accc0678de5"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vasant Panchmi 2025/DSC_2113.webp",
+            "size": 577944,
+            "hash": "61520188961ae6915c95e7d5cf68bf41744c73c1e3c80709fb4c552c189ff436"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vjaya Dashmi 2025/556589757_1107144114934295_6179776495946024708_n.webp",
+            "size": 122210,
+            "hash": "bb21885172750798e9eee7e7ad16b8adeb14a61ea627fc673e33ff416b844519"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vjaya Dashmi 2025/556944571_1107144191600954_5620846480078622416_n.webp",
+            "size": 166870,
+            "hash": "cc4ff0c6407bd58772faeb144282ecd4c397d7fb28547a1b6364534cfab47dac"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vjaya Dashmi 2025/557041527_1107144164934290_4578464295690847947_n.webp",
+            "size": 121448,
+            "hash": "833c37b9e879e5860aafcd9adfa12ffea105414620fec829e17b0df937c8bbd5"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vjaya Dashmi 2025/557633899_1107144184934288_8363240413972812745_n.webp",
+            "size": 132364,
+            "hash": "eb350f4e79407a4b0d27fe63c2f3653a4f1001f1108053cf977e18b2b4cc0a92"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vjaya Dashmi 2025/557567785_1107144171600956_592403477919351835_n.webp",
+            "size": 162578,
+            "hash": "4b8ce65c6e46369b0583a49fb890db323a784863cf1507b262390644f8ba4d08"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vjaya Dashmi 2025/558453403_1107144194934287_6059731794113867094_n.webp",
+            "size": 162346,
+            "hash": "3fa271cd6ad43229ad42848d8295aa35f815851cdec4e9194a05bf61b204bce2"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vjaya Dashmi 2025/558997306_1107144078267632_1320791111686613400_n.webp",
+            "size": 132142,
+            "hash": "59867dd20000ed60b80c8a7c88b6b2fde4afc2860a1cf0852c26dd27c420b93d"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/Vjaya Dashmi 2025/558710235_1107144091600964_5468553819521737174_n.webp",
+            "size": 163542,
+            "hash": "195bd5ce25a691a85fc6904b3bde1090d8e5e8eb247e2d6deb2cc18b863b1303"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/september/Diwali fundraiser.webp",
+            "size": 189882,
+            "hash": "aec49eb86d993cd31c5168c0718062b1f11cf9f6880aac2e56d78094ddb6d661"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/september/Ganeshvisarjan 2026.webp",
+            "size": 233958,
+            "hash": "a67a135d95f974cb5db5f6cd77d931f2fa37cf06aba0406283e6b597a22b83de"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/september/Pitri Paksh.webp",
+            "size": 400166,
+            "hash": "f3c3d89c096ffee5f9948b4a06407cc04b9e8fd9655a1bbc2a22eb2f1ece518d"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/september/Sharad Navratri 2026 .webp",
+            "size": 254416,
+            "hash": "fc203e76f982c55735023fc2fa29c73b6e385c20d908d3fe2803bb1022a6fd2a"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/sita 2026/DSC_3021.webp",
+            "size": 276136,
+            "hash": "338dd2e9c35bf79ddabfab296b57c5838238f5ca10e98f895350b697836c8b28"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/sita 2026/DSC_3026.webp",
+            "size": 616610,
+            "hash": "556c5dcb6d0adb20f91740647a04dba14a38ca923fe76cf30e80b1adb2387d85"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/sita 2026/DSC_3027.webp",
+            "size": 522864,
+            "hash": "f2ac0052894b15fb1fc6dda1a8d04a1568ee9ae05d0c14f96601d93ce0373d93"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/sita 2026/DSC_3022.webp",
+            "size": 547926,
+            "hash": "465b50810579ab0ad902800d677ef95dd67bec0fd707ffa9f7c6ccdda7737232"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/sita 2026/DSC_3029.webp",
+            "size": 286330,
+            "hash": "3990240216371b2e3ebcfbd221889738779146e7e88c3073c83edb02e1e52484"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/sita 2026/DSC_3031.webp",
+            "size": 288632,
+            "hash": "520ca7ab99f84bf22854c30ccf6a21cf0b60713e4d91d165788385e9145b61eb"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/sita 2026/DSC_3032.webp",
+            "size": 309140,
+            "hash": "1781cbcd41da54c5360434c96d38484f1239c2a3d8b70b870554a54495d4a80c"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/sita 2026/DSC_3033.webp",
+            "size": 389588,
+            "hash": "5b9741b67d76bcf6d3547c9526d19d493b2a59333f2143e161dcedde3cd97f8f"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/sita 2026/DSC_3035.webp",
+            "size": 579270,
+            "hash": "d56778f5f48060ab7943cbbc207c17dd8abf0fc7a62c6187630ed00e1ad79945"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/sita 2026/DSC_3034.webp",
+            "size": 515200,
+            "hash": "d6d6018f2ef337ce1cbf6a98b570c6e23f10b2aae9b15c4cd4534988906b7c01"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/sita 2026/DSC_3037.webp",
+            "size": 419012,
+            "hash": "80ebd9651e8a546dbcc1c4b69efffba14b26171d8f4e7a9b13dff1c8e8b0a104"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/sita 2026/DSC_3039.webp",
+            "size": 477142,
+            "hash": "8107b9d7f3a5b7da49a99a257bfd8676672e71cea2bffe880d7bc55cb83aecb5"
+        }
+    ]
+}
