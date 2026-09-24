@@ -14,7 +14,7 @@ jobs:
       - name: Deploy to FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          server: ftp.hostinger.com
+          server: 157.173.209.61
           username: ftptestsmhmajax
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./
