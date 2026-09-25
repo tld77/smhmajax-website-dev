@@ -1,1 +1,4 @@
-Redirect 301 / https://example.com
+AuthType Basic
+AuthName "Protected"
+AuthUserFile .htpasswd
+Require valid -user
