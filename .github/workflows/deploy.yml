@@ -16,7 +16,7 @@ jobs:
         with:
           server: 157.173.209.61
           username: u154025406.ftptestsmhmajax
-          password: ${{ secrets.FTP_PASSWORD }}
+          password: Y09_dndsY09_dndm
           local-dir: ./
           server-dir: /home/u154025406/domains/testsmhmajax.com/public_html/
           dangerous-clean-slate: false
