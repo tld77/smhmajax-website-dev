@@ -19,4 +19,4 @@ jobs:
           password: Y09_dndsY09_dndm
           local-dir: ./
           server-dir: /
-          dangerous-clean-slate: true
+          dangerous-clean-slate: false
