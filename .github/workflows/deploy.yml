@@ -17,3 +17,10 @@ jobs:
           local-dir: ./
           server-dir: /
           dangerous-clean-slate: false
+          exclude: |
+            **/.git
+            **/.github
+            **/node_modules
+            **/.gitignore
+            **/README.md
+            **/.DS_Store
