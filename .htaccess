@@ -1,4 +1,1 @@
-AuthType Basic
-AuthName "SMHM Test Site"
-AuthUserFile /home/u154025406/public_html/.htpasswd
-Require valid-user
+Redirect 301 / https://example.com
