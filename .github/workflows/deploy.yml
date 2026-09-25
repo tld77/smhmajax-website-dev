@@ -19,4 +19,4 @@ jobs:
           password: Y09_dndsY09_dndm
           local-dir: ./
           server-dir: /home/u154025406/domains/testsmhmajax.com/public_html/
-          dangerous-clean-slate: false
+          dangerous-clean-slate: true
